@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.contentTable{
+  font-size: .7em;
+}
+
+td{
+  font-weight: bold;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
